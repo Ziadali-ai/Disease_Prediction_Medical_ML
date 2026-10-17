@@ -60,5 +60,6 @@ jupyter notebook Disease_Prediction_ML_Granular_EN.ipynb
 
 ## 👤 Author
 * **Developer:** Ziad Ali Fathy Mohamed
-* **Program:** CodeAlpha Machine Learning Internship
-* **Repository Name:** `CodeAlpha_DiseasePredictionFromMedicalData`
+* **Program:**  Machine Learning Internship
+* **Repository Name:** `Disease_Prediction_Medical_ML
+* `
